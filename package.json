@@ -1,0 +1,26 @@
+{
+  "name": "tictactoe_cli",
+  "version": "1.0.0",
+  "description": "A Tic Tac Toe game that runs in the command line",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickrotondo/TicTacToe_CLI.git"
+  },
+  "keywords": [
+    "tictactoe",
+    "game",
+    "commandline",
+    "cli",
+    "javascript"
+  ],
+  "author": "Nick Rotondo | nickrotondo@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickrotondo/TicTacToe_CLI/issues"
+  },
+  "homepage": "https://github.com/nickrotondo/TicTacToe_CLI#readme"
+}
