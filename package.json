@@ -4,7 +4,7 @@
   "description": "A Tic Tac Toe game that runs in the command line",
   "main": "index.js",
   "scripts": {
-    "start": "npm index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/nickrotondo/TicTacToe_CLI/issues"
   },
-  "homepage": "https://github.com/nickrotondo/TicTacToe_CLI#readme"
+  "homepage": "https://github.com/nickrotondo/TicTacToe_CLI#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
