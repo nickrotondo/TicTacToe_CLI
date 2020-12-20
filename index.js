@@ -40,7 +40,6 @@ TicTacToe.prototype.hasMoveBeenPlayed = function (move) {
 
 TicTacToe.prototype.checkForValidMove = function (move) {
   move = Number(move);
-
   if (move > 9 || move < 1) {
     this.printError('input must be between 1 and 9');
     return true;
